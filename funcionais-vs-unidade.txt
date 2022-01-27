@@ -1,0 +1,2 @@
+Testes de unidade são mais rápidos e e menos granulares que testes funcionais
+Testes de unidade devem ser executados com mais frequência que os funcionais, justamente pela maior velocidade e simplicidade
